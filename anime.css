@@ -1,0 +1,123 @@
+.container span {
+    text-decoration: none;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+body {
+    background-color: lightblue;
+}
+
+#header {
+    text-align: center;
+    border-bottom: 3px solid black;
+}
+
+.homebutton {
+    color: white;
+    background-color: lightseagreen;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    float: right;
+    margin: 5px 5px;
+    height: 50px;
+    width: 0 auto;
+}
+
+.homebutton a {
+    text-decoration: none;
+    color: blue;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.homebutton:hover {
+    background-color: white;
+    transition-delay: 0.4s;
+}
+
+.homebutton:active {
+    background-color: black;
+}
+
+.isi {
+    padding-left: 150px;
+}
+
+.bofuri {
+    display: inline-block;
+    height: 200px;
+    width: 550px;
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.bofuri img {
+    float: left;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 20px;
+}
+
+.bofuri p {
+    text-align: left;
+    color: red;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.isekai-smartphone {
+    display: inline-block;
+    height: 200px;
+    width: 550px;
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.isekai-smartphone img {
+    float: left;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 20px;
+}
+
+.isekai-smartphone p {
+    text-align: left;
+    color: red;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.arifureta {
+    display: inline-block;
+    height: 200px;
+    width: 550px;
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.arifureta img {
+    float: left;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 20px;
+}
+
+.arifureta p {
+    text-align: left;
+    color: red;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.footer .container h4 {
+    text-align: center;
+    text-decoration: none;
+    font-style: oblique;
+}
